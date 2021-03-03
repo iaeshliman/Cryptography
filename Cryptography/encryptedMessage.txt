@@ -1,0 +1,15 @@
+Cryptography Challenge
+	Use the following ciphers, create a program that can decrypt
+	the given encrypted messages. Within these messages you will
+	find the path to the final goal and with it win a prize! The
+	first person to reach the goal wins.
+
+Use this part in a Caesar Cipher:
+	hvs ysm wg hvs tczzckwbu qwdvsf
+
+Use this part in a Vigenere Cipher:
+	hqck kjm mpri wphugv dmkjqc qp etiwzvm pr qzslv vw jsdrttai vpt xrus.
+	Egrmck kjm mscnwlprx bd xyg tuh qn tc ymqzmkg jyp kv vvugz as nwrhxv
+	bwl wniv. Wkzha kaxt e utpzl, bwlr vgel kjm dsif raj hwassngl ic c
+	elvzql hru bwl nqzs lkot. Mw ldui ewgyitvtn cfw lppc jt vvfqglgkgl as
+	vpt hvuqglh rivl. Hwassn bwl zpaiyytvqduw qv fslt hjvvgv as ewbwpvvm alv bpzo.
